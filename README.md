@@ -1,2 +1,2 @@
 # laravel-todo
-<h4 style='color:red'>Laravel ToDo Application</h4>
+<h1 style='color:red'>Laravel ToDo Application</h1>
